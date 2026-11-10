@@ -2,6 +2,9 @@
 
 Everything from the video, values and steps, so you can follow on your own network. Lab only: read "Before you use this for real" first.
 
+
+▶️ Video: https://youtu.be/W8o6kdQXKHY
+
 ## What to change, what to keep
 | Value | Change it? |
 |---|---|
